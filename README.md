@@ -1,5 +1,9 @@
 # Data-Visualization-Project-using-Tableau
 
+![alt text](images/dashboard_screenshot.png)
+
+
+
 ## About The Project
 
 Simply presenting raw data from the World Happiness Report fails to convey the complex relationships between factors like GDP, social support, and a nation's happiness. This project aimed to translate these numerical relationships into accessible visual patterns.
