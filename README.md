@@ -13,7 +13,7 @@ Research Question
 
 The interactive dashboard is a Tableau Packaged Workbook (.twbx). It cannot be viewed directly on GitHub.
 
-        If you have Tableau Desktop, you can download and open the .twbx file directly.
+> If you have Tableau Desktop, you can download and open the .twbx file directly.
 
 ## Dataset
         
@@ -24,19 +24,19 @@ The interactive dashboard is a Tableau Packaged Workbook (.twbx). It cannot be v
 
   Key Features Analyzed:
 
-      Life Ladder (Happiness Score)
+- Life Ladder (Happiness Score)
 
-      GDP Per Capita
+- GDP Per Capita
 
-      Social Support
+- Social Support
 
-      Healthy Life Expectancy
+- Healthy Life Expectancy
 
-      Freedom to Make Life Choices
+- Freedom to Make Life Choices
 
-      Perceptions of Corruption
+- Perceptions of Corruption
 
-      Positive and Negative Affect
+- Positive and Negative Affect
 
 ## Methodology and Key Findings
 ### Methodology
@@ -47,10 +47,10 @@ To determine the "influence" of each factor, the data was first grouped by regio
 
 The analysis revealed significant regional differences in the drivers of happiness:
 
-    Economic factors like Log GDP Per Capita are extremely influential in regions like East Asia (38%) and Central & Eastern Europe (35%), but surprisingly insignificant in Western Europe (2%).
+- Economic factors like Log GDP Per Capita are extremely influential in regions like East Asia (38%) and Central & Eastern Europe (35%), but surprisingly insignificant in Western Europe (2%).
 
-    In Western Europe, happiness is most strongly shaped by Negative Affect (25%) and Perceptions of Corruption (24%).
+- In Western Europe, happiness is most strongly shaped by Negative Affect (25%) and Perceptions of Corruption (24%).
 
-    Social Support is a crucial driver in the Commonwealth of Independent States (22%) and Southeast Asia (22%).
+- Social Support is a crucial driver in the Commonwealth of Independent States (22%) and Southeast Asia (22%).
 
-    Affective variables (Positive/Negative Affect) play a major role in Latin America & Caribbean and the Middle East & North Africa.
+- Affective variables (Positive/Negative Affect) play a major role in Latin America & Caribbean and the Middle East & North Africa.
