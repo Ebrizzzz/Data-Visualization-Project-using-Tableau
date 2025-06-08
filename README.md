@@ -1,6 +1,6 @@
 # Data-Visualization-Project-using-Tableau
 
-![alt text](images/dashboard_screenshot.png)
+![alt text](dashboard_screenshot.png)
 
 
 
