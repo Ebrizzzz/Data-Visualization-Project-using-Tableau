@@ -7,7 +7,7 @@ Simply presenting raw data from the World Happiness Report fails to convey the c
 The primary goal was to compare different visualization techniques to identify the most effective approach for answering the central research question. The final selected visualization is an interactive Tableau dashboard designed to reveal and compare the relative influence of various factors on happiness across different geographical regions.
 Research Question
 
-    "Which factors have the highest influence on the happiness score across different regions for the period 2005-2022?"
+> "Which factors have the highest influence on the happiness score across different regions for the period 2005-2022?"
 
 ## How to View the Visualization
 
